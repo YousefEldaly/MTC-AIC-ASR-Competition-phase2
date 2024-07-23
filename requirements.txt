@@ -1,6 +1,6 @@
 torchvision
 torchaudio
-nemo_toolkit[asr]
+#nemo_toolkit[asr]
 omegaconf
 hydra-core
 pytorch-lightning
