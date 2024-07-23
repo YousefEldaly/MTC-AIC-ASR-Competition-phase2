@@ -60,11 +60,11 @@ pip install -r ../requirements.txt
 
 
 # Run the data_setup.py script
-echo "Running data_setup.py..."
-python data_setup.py
+#echo "Running data_setup.py..."
+#python data_setup.py
 
 # Run the cluster_diarizer.py script
-echo "Running cluster_diarizer.py..."
-python cluster_diarizer.py
+#echo "Running cluster_diarizer.py..."
+#python cluster_diarizer.py
 
 echo "Setup and execution complete!"
