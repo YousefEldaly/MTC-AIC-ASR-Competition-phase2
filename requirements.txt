@@ -1,0 +1,10 @@
+torchvision
+torchaudio
+nemo_toolkit[asr]
+omegaconf
+hydra-core
+pytorch-lightning
+transformers
+webdataset
+sentencepiece
+datasets
