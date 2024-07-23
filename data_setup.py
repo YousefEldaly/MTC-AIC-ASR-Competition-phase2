@@ -4,8 +4,11 @@ from utils import collect_wav_files, create_manifest
 
 
 
-def main(wavs_directory):
+def main(wavs_dir_path):
     # Ask user for the WAVs directory path
+    if len(sys.argv) > 1:
+        wavs_directory = sys.argv[1]
+
     if not os.path.isdir(wavs_directory):
         print("The specified WAVs directory does not exist. Exiting.")
         sys.exit(1)
