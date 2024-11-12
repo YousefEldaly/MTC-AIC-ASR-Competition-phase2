@@ -8,7 +8,7 @@ For more details on the competition, visit: [MTC-AIC Overview](https://aic.confe
 
 The speaker diarization and ASR pipeline consists of the following steps:
 
-![Pipeline Diagram](https://github.com/NVIDIA/NeMo/blob/main/tutorials/speaker_tasks/images/diar_pipeline.png)
+![Pipeline Diagram](https://github.com/YousefEldaly/MTC-AIC-ASR-Competition-phase2/blob/main/diar_pipeline.png)
 
 1. **Input Speech**: The pipeline begins with raw audio input that may contain multiple speakers.
 
